@@ -1,3 +1,5 @@
-# le script du fichier 0_current_working_directory montre le chemin actuel du dossier
-# le script du fichier 1-listit montre la liste actuel du dossier
-#le script du fichier 2-bring_me_home change le répertoire de travail en répertoire personnel de l'utilisateur.
+# le script du fichier 0_current_working_directory montre le chemin actuel du dossier (pwd)
+# le script du fichier 1-listit montre la liste actuel du dossier (ls)
+# le script du fichier 2-bring_me_home change le répertoire de travail en répertoire personnel de l'utilisateur. (cd)
+# le script du fichier 3-listfiles montre le contenu de la listes en format long (ls -l)
+# le script du fichier 4-listmorefiles montre le contenu visible et caché en format long (ls -a -l)
