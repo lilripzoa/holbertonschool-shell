@@ -2,4 +2,5 @@
 # le script du fichier 1-listit montre la liste actuel du dossier (ls)
 # le script du fichier 2-bring_me_home change le répertoire de travail en répertoire personnel de l'utilisateur. (cd)
 # le script du fichier 3-listfiles montre le contenu de la listes en format long (ls -l)
-# le script du fichier 4-listmorefiles montre le contenu visible et caché en format long (ls -a -l)
+# le script du fichier 4-listmorefiles montre le contenu visible et caché d'une liste en format long (ls -a -l)
+# le script du fichier 5-listfilesdigitonly montre le contenu visible et caché d'un liste en format long et avec leur id (ls -a -n)
