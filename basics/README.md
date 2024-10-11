@@ -6,3 +6,4 @@
 # le script du fichier 5-listfilesdigitonly montre le contenu visible et caché d'un liste en format long et avec leur id (ls -a -n)
 # le script du fichier 6-firstdirectory créer un dossier my_first_directory (mkdir /tmp/my_first_directory)
 # le script du fichier 7-movethatfile deplace le fichier betty qui se trouve dans le dossier tmp vers le dossier my_first_directory qui se trouve dans le dossier tmp (mv /tmp/betty /tmp/my_first_directory
+# le script du fichier 8_firstdelete supprime le fichier betty qui se trouve a /tmp/my_first_directory)
