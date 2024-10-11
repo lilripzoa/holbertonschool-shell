@@ -4,4 +4,5 @@
 # le script du fichier 3-listfiles montre le contenu de la listes en format long (ls -l)
 # le script du fichier 4-listmorefiles montre le contenu visible et caché d'une liste en format long (ls -a -l)
 # le script du fichier 5-listfilesdigitonly montre le contenu visible et caché d'un liste en format long et avec leur id (ls -a -n)
-# le script du fichier 6-firstdirectory créer un dossier my_first_directory (mkdir -v -p tmp/my_first_directory)
+# le script du fichier 6-firstdirectory créer un dossier my_first_directory (mkdir /tmp/my_first_directory)
+# le script du fichier 7-movethatfile deplace le fichier betty qui se trouve dans le dossier tmp vers le dossier my_first_directory qui se trouve dans le dossier tmp (mv /tmp/betty /tmp/my_first_directory
