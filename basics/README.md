@@ -9,3 +9,4 @@
 # le script du fichier 8_firstdelete supprime le fichier betty qui se trouve a /tmp/my_first_directory (rm /tmp/my_first_directory/betty)
 # le script du fichier 9-firstdirdeletion supprime le dossier my_first_directory a /tmp (rmdir /tmp/my_first_directory)
 # le script du fichier 10-back change de dossier actuel au precedent (cd -)
+#le script du fichier 11-lists liste les fichiers et dossiers (ls -r -a -l /root/holbertonschool-shell/basics /root/holbertonschool-shell /root)
